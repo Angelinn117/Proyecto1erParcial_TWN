@@ -1,0 +1,12 @@
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\bin\Debug\net6.0\Proyecto.1erParcial.Core.deps.json
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\bin\Debug\net6.0\Proyecto.1erParcial.Core.dll
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\bin\Debug\net6.0\Proyecto.1erParcial.Core.pdb
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\Proyecto.1erParcial.Core.csproj.AssemblyReference.cache
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\Proyecto.1erParcial.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\Proyecto.1erParcial.Core.AssemblyInfoInputs.cache
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\Proyecto.1erParcial.Core.AssemblyInfo.cs
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\Proyecto.1erParcial.Core.csproj.CoreCompileInputs.cache
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\Proyecto.1erParcial.Core.dll
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\refint\Proyecto.1erParcial.Core.dll
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\Proyecto.1erParcial.Core.pdb
+C:\Users\angel\RiderProjects\Proyecto.1erParcial\Proyecto.1erParcial.Core\obj\Debug\net6.0\ref\Proyecto.1erParcial.Core.dll
